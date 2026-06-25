@@ -1,5 +1,7 @@
 import AppShowcaseStatusSection from "../AppShowcaseStatsSection/AppShowcaseStatusSection";
 import TradingAppSection from "../TradingAppSection/TradingAppSection";
+import Googleplay from "../../../B12-A08-Hero-Apps/assets/google-play.png";
+import Appstore from "../../../B12-A08-Hero-Apps/assets/app-store.png";
 
 export default function Bannaer() {
     return (
@@ -31,7 +33,7 @@ export default function Bannaer() {
                         <button className="w-full sm:w-auto py-3 px-6 md:px-10 border-2 border-[#64748323] rounded-xl capitalize font-semibold flex items-center justify-center gap-2.5 cursor-pointer">
                             <img
                                 className="w-7 md:w-8"
-                                src="../../../B12-A08-Hero-Apps/assets/google-play.png"
+                                src={Googleplay}
                                 alt="Google Play"
                             />
                             Google Play
@@ -47,7 +49,7 @@ export default function Bannaer() {
                         <button className="w-full sm:w-auto py-3 px-6 md:px-10 border-2 border-[#64748323] rounded-xl capitalize font-semibold flex items-center justify-center gap-2.5 cursor-pointer">
                             <img
                                 className="w-7 md:w-8"
-                                src="../../../B12-A08-Hero-Apps/assets/app-store.png"
+                                src={Appstore}
                                 alt="App Store"
                             />
                             App Store

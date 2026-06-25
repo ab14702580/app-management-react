@@ -1,9 +1,11 @@
+import HeroImg from "../../../B12-A08-Hero-Apps/assets/hero.png";
+
 const AppShowcaseStatusSection = () => {
     return (
         <div className="mt-16 md:mt-20">
             <img
                 className="mx-auto w-full max-w-5xl px-4"
-                src="../../../B12-A08-Hero-Apps/assets/hero.png"
+                src={HeroImg}
                 alt="image here"
             />
 
