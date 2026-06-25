@@ -1,10 +1,10 @@
 import { FaGithub } from "react-icons/fa";
 import { Link, NavLink } from "react-router";
-
+import LogoImg from "../../../B12-A08-Hero-Apps/assets/logo.png"
 export default function Header() {
     return (
         <>
-            <div className="navbar bg-white shadow-sm sticky top-0">
+            <div className="navbar bg-white shadow-sm sticky top-0 z-20">
                 <div className="navbar-start">
                     <div className="dropdown">
                         <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -20,7 +20,7 @@ export default function Header() {
                             <li><NavLink to='installation'>Installation</NavLink></li>
                         </ul>
                     </div>
-                    <Link to="/" className="text-xl flex items-center px-5 gap-2.5"><img className="max-w-10" src="../../../B12-A08-Hero-Apps/assets/logo.png" alt="icon here" /><span className="uppercase inline-block bg-[linear-gradient(90deg,#8b5cf6,#6d28d9)] bg-clip-text text-transparent">hero.io</span></Link>
+                    <Link to="/" className="text-xl flex items-center px-5 gap-2.5"><img className="max-w-10" src={LogoImg} alt="icon here" /><span className="uppercase inline-block bg-[linear-gradient(90deg,#8b5cf6,#6d28d9)] bg-clip-text text-transparent">hero.io</span></Link>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">

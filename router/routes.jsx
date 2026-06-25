@@ -4,6 +4,7 @@ import TradingAppSection from "../src/Component/TradingAppSection/TradingAppSect
 import Layout from "../src/Component/Shered/Layout/Layout";
 import PageNotFound from "../src/Component/PageNotFound/PageNotFound";
 import AppDetailsPage from "../src/Component/AppDetails/AppDetailsPage";
+import InstallationPage from "../src/Component/InstallationPage/InstallationPage";
 
 const router = createBrowserRouter([
     {
@@ -20,12 +21,12 @@ const router = createBrowserRouter([
             },
             {
                 path: 'installation',
-                element: <h1>a;dfj</h1>
+                Component: InstallationPage
             },
             {
                 path: 'singleApp',
                 Component: AppDetailsPage
-            }
+            },
         ]
     },
     {
