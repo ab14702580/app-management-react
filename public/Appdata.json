@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "image": "https://picsum.photos/400/400?random=1",
+    "title": "WhatsApp",
+    "companyName": "Meta",
+    "description": "Private messaging and calling app.",
+    "size": 85,
+    "reviews": "12.5M",
+    "ratingAvg": 4.6,
+    "downloads": "10B",
+    "ratings": [
+      { "name": "1 star", "count": 450000 },
+      { "name": "2 star", "count": 280000 },
+      { "name": "3 star", "count": 650000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 8620000 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://picsum.photos/400/400?random=2",
+    "title": "Instagram",
+    "companyName": "Meta",
+    "description": "Photo and video sharing social platform.",
+    "size": 92,
+    "reviews": "9.8M",
+    "ratingAvg": 4.5,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": 520000 },
+      { "name": "2 star", "count": 310000 },
+      { "name": "3 star", "count": 710000 },
+      { "name": "4 star", "count": 2100000 },
+      { "name": "5 star", "count": 6160000 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://picsum.photos/400/400?random=3",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "description": "Music and podcast streaming service.",
+    "size": 78,
+    "reviews": "7.2M",
+    "ratingAvg": 4.7,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": 180000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 340000 },
+      { "name": "4 star", "count": 1560000 },
+      { "name": "5 star", "count": 5000000 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://picsum.photos/400/400?random=4",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "description": "Short-form video sharing platform.",
+    "size": 105,
+    "reviews": "11.2M",
+    "ratingAvg": 4.4,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 420000 },
+      { "name": "3 star", "count": 920000 },
+      { "name": "4 star", "count": 2300000 },
+      { "name": "5 star", "count": 6860000 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://picsum.photos/400/400?random=5",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "description": "Cloud-based messaging app.",
+    "size": 65,
+    "reviews": "6.8M",
+    "ratingAvg": 4.8,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": 110000 },
+      { "name": "2 star", "count": 70000 },
+      { "name": "3 star", "count": 220000 },
+      { "name": "4 star", "count": 1300000 },
+      { "name": "5 star", "count": 5100000 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://picsum.photos/400/400?random=6",
+    "title": "Netflix",
+    "companyName": "Netflix Inc.",
+    "description": "Movies and TV streaming platform.",
+    "size": 88,
+    "reviews": "5.4M",
+    "ratingAvg": 4.6,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 110000 },
+      { "name": "3 star", "count": 260000 },
+      { "name": "4 star", "count": 1180000 },
+      { "name": "5 star", "count": 3700000 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://picsum.photos/400/400?random=7",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "description": "Video conferencing application.",
+    "size": 72,
+    "reviews": "3.9M",
+    "ratingAvg": 4.5,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 230000 },
+      { "name": "4 star", "count": 920000 },
+      { "name": "5 star", "count": 2540000 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://picsum.photos/400/400?random=8",
+    "title": "Duolingo",
+    "companyName": "Duolingo Inc.",
+    "description": "Language learning application.",
+    "size": 58,
+    "reviews": "4.8M",
+    "ratingAvg": 4.8,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 85000 },
+      { "name": "2 star", "count": 65000 },
+      { "name": "3 star", "count": 170000 },
+      { "name": "4 star", "count": 980000 },
+      { "name": "5 star", "count": 3500000 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://picsum.photos/400/400?random=9",
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd",
+    "description": "Graphic design and content creation tool.",
+    "size": 76,
+    "reviews": "6.1M",
+    "ratingAvg": 4.9,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 60000 },
+      { "name": "2 star", "count": 45000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 1040000 },
+      { "name": "5 star", "count": 4805000 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://picsum.photos/400/400?random=10",
+    "title": "Google Maps",
+    "companyName": "Google",
+    "description": "Navigation and map service.",
+    "size": 95,
+    "reviews": "15M",
+    "ratingAvg": 4.7,
+    "downloads": "10B",
+    "ratings": [
+      { "name": "1 star", "count": 280000 },
+      { "name": "2 star", "count": 180000 },
+      { "name": "3 star", "count": 520000 },
+      { "name": "4 star", "count": 3200000 },
+      { "name": "5 star", "count": 10820000 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://picsum.photos/400/400?random=11",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "description": "Voice, video and text communication platform.",
+    "size": 89,
+    "reviews": "4.3M",
+    "ratingAvg": 4.7,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 90000 },
+      { "name": "2 star", "count": 70000 },
+      { "name": "3 star", "count": 190000 },
+      { "name": "4 star", "count": 980000 },
+      { "name": "5 star", "count": 2970000 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://picsum.photos/400/400?random=12",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "description": "Multimedia messaging application.",
+    "size": 97,
+    "reviews": "8.7M",
+    "ratingAvg": 4.3,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": 650000 },
+      { "name": "2 star", "count": 380000 },
+      { "name": "3 star", "count": 720000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 5150000 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://picsum.photos/400/400?random=13",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft",
+    "description": "Team collaboration and communication tool.",
+    "size": 82,
+    "reviews": "2.9M",
+    "ratingAvg": 4.4,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 210000 },
+      { "name": "4 star", "count": 720000 },
+      { "name": "5 star", "count": 1760000 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://picsum.photos/400/400?random=14",
+    "title": "Adobe Express",
+    "companyName": "Adobe",
+    "description": "Quick graphic and content creation app.",
+    "size": 71,
+    "reviews": "1.7M",
+    "ratingAvg": 4.6,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": 35000 },
+      { "name": "2 star", "count": 25000 },
+      { "name": "3 star", "count": 90000 },
+      { "name": "4 star", "count": 420000 },
+      { "name": "5 star", "count": 1130000 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://picsum.photos/400/400?random=15",
+    "title": "Pinterest",
+    "companyName": "Pinterest Inc.",
+    "description": "Visual discovery and inspiration platform.",
+    "size": 68,
+    "reviews": "5.2M",
+    "ratingAvg": 4.5,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": 180000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 340000 },
+      { "name": "4 star", "count": 1460000 },
+      { "name": "5 star", "count": 3100000 }
+    ]
+  }
+]
