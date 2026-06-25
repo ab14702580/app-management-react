@@ -4,6 +4,7 @@ import { MdOutlineFileDownload } from 'react-icons/md';
 import { Link, useLocation } from 'react-router';
 import { AppDataContext } from '../../context/Context';
 import Loader from '../Loader/Loader';
+import Datanotfound from "../../../B12-A08-Hero-Apps/assets/App-Error.png";
 
 const TradingAppSection = () => {
     const { data , handelStoreData : handelIdCapture } = useContext(AppDataContext);
@@ -32,7 +33,7 @@ const TradingAppSection = () => {
     if (search.length === 0) {
         return (
             <div className='flex justify-center items-center flex-col gap-10 h-screen w-full'>
-                <img src="../../../B12-A08-Hero-Apps/assets/App-Error.png" alt="iage hre" />
+                <img src={Datanotfound} alt="iage hre" />
                 <h1 className='font-bold text-6xl capitalize text-[#685959] '>data not found</h1>
             </div>
         );
